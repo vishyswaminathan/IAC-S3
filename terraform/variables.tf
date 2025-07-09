@@ -6,4 +6,4 @@ variable "bucket_name" {
   default     = "wp-backup-bucket-example"
   description = "S3 bucket for WP + MariaDB backups"
 }
-## testing ##
+## testing again ##
